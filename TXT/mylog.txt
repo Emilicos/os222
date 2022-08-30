@@ -3,4 +3,8 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 15 L03 GitHub related
 ZCZC W00 10 L03 Cloning Github Repository to Local
+ZCZC W00 50 L09 Weekly Assignments
+ZCZC W00 100 L02 ZOOM Meeting Related
+ZCZC W00 15 L08 Asking about virtualbox
