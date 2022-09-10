@@ -10,3 +10,14 @@ ZCZC W00 200 L02 ZOOM Meeting Related
 ZCZC W00 15 L08 Asking about virtualbox
 ZCZC W00 60 L70 Studying Linear Algebra
 ZCZC W00 120 L05 Studying for Quiz
+ZCZC W01 100 L11 Assignment #01
+ZCZC W01 200 L02 ZOOM Meeting Related
+ZCZC W01 180 L12 Assignment #02
+ZCZC W01 20 L08 Chat with Asdos about OS and Quiz Related
+ZCZC W01 40 L24 Trying scripting for the first time
+ZCZC W01 30 L32 Watching topics about AWK command 
+ZCZC W01 150 L05 Learning for Quiz
+ZCZC W01 60 L12 Assignment #03
+ZCZC W01 10 L12 Assignment #04
+ZCZC W01 45 L32 GSGS Linux Command and BASH
+ZCZC W01 30 L23 Reading more about REGEX
