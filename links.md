@@ -34,5 +34,5 @@ This video is really entertaining and quick. This video just meant to be a warm-
 3. [Basic Shell Scripting](https://www.youtube.com/watch?v=Zl7npywCB84) - NovelTech Media (Youtube) <br>
 If you want to learn more in-depth about basic shell scriptingm this video is right for you! You can learn more useful things in this video unlike the previous video. 
 
-4. [How to use AWK](https://www.youtube.com/watch?v=9YOZmI-zWok) <br>
+4. [How to use AWK](https://www.youtube.com/watch?v=9YOZmI-zWok) - DistroTube (Youtube) <br>
 This tutorial helped me in understanding AWK further. Provided clear and useful explanations. Output examples are provided so we don't have to rely on our imageination.
