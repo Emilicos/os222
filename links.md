@@ -26,7 +26,7 @@ This video helps me a lot on having clear goals on this course. I started unders
 ### Week01 
 
 1. [Basic Linux Commands](https://www.hostinger.com/tutorials/linux-commands) - Hostinger (Blogpost) <br>
-Video ini membantu saya untuk menambah pengetahuan umum saya mengenai Linux Command. Saya merekomendasikan video ini bagi yang berminat untuk belajar dari awal. 
+This video helps me to increase my general knowledge about Linux Commands. I recommend this video for those who are interested in learning from scratch.
  
 2. [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g) - Fireship (Youtube) <br>
 This video is really entertaining and quick. This video just meant to be a warm-up for learning BASH/Shell. I found this video very interesting and fun because it's not really time consuming.
@@ -35,4 +35,4 @@ This video is really entertaining and quick. This video just meant to be a warm-
 If you want to learn more in-depth about basic shell scriptingm this video is right for you! You can learn more useful things in this video unlike the previous video. 
 
 4. [How to use AWK](https://www.youtube.com/watch?v=9YOZmI-zWok) <br>
-Tutorial ini membantu saya dalam memahami AWK lebih lanjut. Diberi penjelasan yang jelas dan bermanfaat. Diberikan contoh-contoh output yang sangat bermanfaat.
+This tutorial helped me in understanding AWK further. Provided clear and useful explanations. Output examples are provided so we don't have to rely on our imageination.
