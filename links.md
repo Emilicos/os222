@@ -36,3 +36,8 @@ If you want to learn more in-depth about basic shell scriptingm this video is ri
 
 4. [How to use AWK](https://www.youtube.com/watch?v=9YOZmI-zWok) - DistroTube (Youtube) <br>
 This tutorial helped me in understanding AWK further. Provided clear and useful explanations. Output examples are provided so we don't have to rely on our imageination.
+
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
