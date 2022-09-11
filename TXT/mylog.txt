@@ -21,3 +21,4 @@ ZCZC W01 60 L12 Assignment #03
 ZCZC W01 10 L12 Assignment #04
 ZCZC W01 45 L32 GSGS Linux Command and BASH
 ZCZC W01 30 L23 Reading more about REGEX
+ZCZC W01 20 L41 Finishing mylog.txt 
