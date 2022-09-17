@@ -37,6 +37,23 @@ If you want to learn more in-depth about basic shell scriptingm this video is ri
 4. [How to use AWK](https://www.youtube.com/watch?v=9YOZmI-zWok) - DistroTube (Youtube) <br>
 This tutorial helped me in understanding AWK further. Provided clear and useful explanations. Output examples are provided so we don't have to rely on our imageination.
 
+### Week02 
+
+1. [Why care about Internet Privacy?](https://www.youtube.com/watch?v=85mu9PLWCuI) - Epipheo (Youtube) <br>
+A really good warmup for this week topic. I really like the video because it's short and to the point. The animation are great too, so the viewer will enjoy the video more. I really recommend this video for the sake of introducing you to this week topic!
+
+2. [How to protect yourself in Online Privacy & Security](https://www.youtube.com/watch?v=qZE45J-MIUg) - Wolfgang's Channel (Youtube) <br>
+This video is a really good reference and learning point to study about privacy & security. I really like this video because it's complete and not ambigous. The example that were given throughout the video is really funny and entertaining. 
+
+3. [Cyber Security in 7 minutes](https://www.youtube.com/watch?v=inWWhr5tnEA) - Simplilearn (Youtube) <br>
+My favorite video so far! This video is really effective to learn about cyber security. The explanation is so amazing because animations, voice, etc. This video will really help you understand about this week material!
+
+4. [Getting to Cyber Security](https://www.youtube.com/watch?v=Kx4y9c7w2JQ) - Cyberspatial (Youtube) <br>
+I recommend this video to all of you who are really interested on cyber security. I hope from this video, it can provide you with bunch of great skills that are crucial. I think the presenter explained it pretty well and really resonates with OS.  
+
+5. [Tips and Trick to Protect Our Digital Privacy](https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy) - The New York Times (Blogpost) <br>
+This website is for you that are not motivated to watch videos. I recommend this website to give all of you useful tips to protect your privacy digitally. 
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>

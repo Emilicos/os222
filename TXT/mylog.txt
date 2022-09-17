@@ -22,3 +22,17 @@ ZCZC W01 10 L12 Assignment #04
 ZCZC W01 45 L32 GSGS Linux Command and BASH
 ZCZC W01 30 L23 Reading more about REGEX
 ZCZC W01 20 L41 Finishing mylog.txt 
+ZCZC W02 60 L11 Assignment #01
+ZCZC W02 200 L02 ZOOM Meeting 
+ZCZC W02 90 L05 Learning for Quiz
+ZCZC W02 60 L32 Watching videos about Cyber Security and Data Privacy
+ZCZC W02 20 L08 Chat with a friend about OS and Quiz Related
+ZCZC W02 10 L14 Generate my own GnuPG Key Pair
+ZCZC W02 5 L15 Trying to see available GnuPG Key
+ZCZC W02 30 L12 Assignment #02
+ZCZC W02 10 L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W02 15 L13 Updating links.md
+ZCZC W02 30 L14 Reviewing fellow friends links. 
+ZCZC W02 5 L15 Doing Assignment 05. 
+ZCZC W02 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W02 5 L03 Pushing changes to github. 
