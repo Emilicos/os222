@@ -54,6 +54,14 @@ I recommend this video to all of you who are really interested on cyber security
 5. [Tips and Trick to Protect Our Digital Privacy](https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy) - The New York Times (Blogpost) <br>
 This website is for you that are not motivated to watch videos. I recommend this website to give all of you useful tips to protect your privacy digitally. 
 
+### Week03 
+
+1. [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0) - Udacity (Youtube) <br>
+Short video filled with animations that might motivate you to study about this topic. I like the video because it's rather short and nice to see. 
+
+2. [Explaining File Systems](https://www.youtube.com/watch?v=_h30HBYxtws) - ExplainingComputers (Youtube) <br>
+All in one video. You could totaly learn a lot from this video if you wish to learn further. It taught us about different kind of file systems. 
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
