@@ -62,6 +62,22 @@ Short video filled with animations that might motivate you to study about this t
 2. [Explaining File Systems](https://www.youtube.com/watch?v=_h30HBYxtws) - ExplainingComputers (Youtube) <br>
 All in one video. You could totaly learn a lot from this video if you wish to learn further. It taught us about different kind of file systems. 
 
+### Week04 
+
+1. [Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE) - OpenCanvas (Youtube)
+A really good video, highly recommended. You can learn a lot of stuff about memory in this video. The video is clear and really fun to watch as well.
+
+2. [File Allocation](https://www.scaler.com/topics/file-allocation-methods-in-os/) - Scaler (Blogpost)
+Amazing Blogpost with amazing information. In this blogpost, they teach you bunch of stuff about allocating file that is important in operating systems. 
+
+3. [C Pointers](https://www.youtube.com/watch?v=f2i0CnUOniA) - Neso Academy (Youtube)
+
+Wanna learn about pointers for Quiz 02 last week? This is the way! I really like the video because it's short and Neso Academy is one of my favorite education channel out there.
+
+4. [Printing in C](https://www.youtube.com/watch?v=tPlT9mg7bkw) - Caleb Curry (Youtube)
+
+If you are still confused or didn't understand how print works in C then this video is for you! Highly educational and one of my sources to study for this course.
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>

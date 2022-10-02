@@ -48,3 +48,13 @@ ZCZC W03 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 150 L06 Reading Silberschatz chapter 13, 14, 15
 ZCZC W03 25 L08 Chatting OS Related stuff with friend on Discord.
 ZCZC W03 40 L13 Working on Assignment #03
+ZCZC W04 60  L11 Read Silberschatz Chapter 9.
+ZCZC W04 100 L02 Tuesday OS ZOOM meeting (W04)
+ZCZC W04 10  L01 Scele/Discord Related.
+ZCZC W04 100 L00 General: thursday OS offline class (W04)
+ZCZC W04 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 10 L25 Do W04 Quiz 02 (C print formatting)
+ZCZC W04 15 L25 Do C-language and Makefile pop quiz
+ZCZC W04 60  L04 Add links.
+ZCZC W04 30  L41 TXT/mylog.txt related.
+ZCZC W04 60  L43 TXT/myrank.tex related, including peer review.
