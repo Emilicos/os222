@@ -64,19 +64,28 @@ All in one video. You could totaly learn a lot from this video if you wish to le
 
 ### Week04 
 
-1. [Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE) - OpenCanvas (Youtube)
+1. [Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE) - OpenCanvas (Youtube) <br>
 A really good video, highly recommended. You can learn a lot of stuff about memory in this video. The video is clear and really fun to watch as well.
 
-2. [File Allocation](https://www.scaler.com/topics/file-allocation-methods-in-os/) - Scaler (Blogpost)
+2. [File Allocation](https://www.scaler.com/topics/file-allocation-methods-in-os/) - Scaler (Blogpost) <br>
 Amazing Blogpost with amazing information. In this blogpost, they teach you bunch of stuff about allocating file that is important in operating systems. 
 
-3. [C Pointers](https://www.youtube.com/watch?v=f2i0CnUOniA) - Neso Academy (Youtube)
-
+3. [C Pointers](https://www.youtube.com/watch?v=f2i0CnUOniA) - Neso Academy (Youtube) <br>
 Wanna learn about pointers for Quiz 02 last week? This is the way! I really like the video because it's short and Neso Academy is one of my favorite education channel out there.
 
-4. [Printing in C](https://www.youtube.com/watch?v=tPlT9mg7bkw) - Caleb Curry (Youtube)
-
+4. [Printing in C](https://www.youtube.com/watch?v=tPlT9mg7bkw) - Caleb Curry (Youtube) <br>
 If you are still confused or didn't understand how print works in C then this video is for you! Highly educational and one of my sources to study for this course.
+
+### Week05
+
+1. [Big Endian and Little Endian](https://www.youtube.com/watch?v=jhErugDB-34) - utexascnsquest (Youtube) <br>
+Informative video that teach you about big and little endian. Really recommend this video if you still haven't understand the concept about those two
+
+2. [What is virtual memory?](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986) - Tech Monitor (Blogpost) <br>
+Blogpost explaining about virtual memory and how to increase your virtual memory. For those of you who are interested this is the way!
+
+3. [How does virtual memory works?](https://www.youtube.com/watch?v=59MxYkCs1rg) - Computer Science Tutorial (Youtube) <br>
+Video version about virtual memory. Again, if you understand things by visual and audio, this video is for you! 
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
