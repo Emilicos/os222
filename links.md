@@ -87,6 +87,16 @@ Blogpost explaining about virtual memory and how to increase your virtual memory
 3. [How does virtual memory works?](https://www.youtube.com/watch?v=59MxYkCs1rg) - Computer Science Tutorial (Youtube) <br>
 Video version about virtual memory. Again, if you understand things by visual and audio, this video is for you! 
 
+### Week06
+1. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) - CodeVault (Youtube) <br>
+Wanna learn about fork() function in C? This video gives you brief idea about it. It's a pretty fun video to watch and I really recommend watching it to give you more insight about Weekly Assignment 6.
+
+2. [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk) - Neso Academy (Youtube) <br>
+One of my favorite channel to watch also topics about thread is really important as discussed on synchronuses classes. You can learn more about threads since it will be pretty important for us in the future!
+
+3. [Concurrency vs Parallelism](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)  - Medium (Blogpost)
+Concurrency is progress on more than one task at the same time and parallelism is split task into smaller subtask that can be processed in parallel at the same time
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
