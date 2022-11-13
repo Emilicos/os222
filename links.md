@@ -97,6 +97,13 @@ One of my favorite channel to watch also topics about thread is really important
 3. [Concurrency vs Parallelism](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)  - Medium (Blogpost)
 Concurrency is progress on more than one task at the same time and parallelism is split task into smaller subtask that can be processed in parallel at the same time
 
+### Week07
+1. [Virtual Memory: 6 Address Translation](https://www.youtube.com/watch?v=ZjKS1IbiGDA) - David Black-Schaffer (Youtube) <br>
+A really good video explaining about adress and offset that will be a really good lesson to learn. I recommend watching this video if you still have some sub-chapters that you don't understand.
+
+2. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - Linuxize (Blogpost) <br>
+Need help with scp? This article will help you go through this weekly assignment. You can find different commands that you aren't aware. I learn how to do weekly assignment from this blogpost
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
