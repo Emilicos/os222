@@ -104,6 +104,13 @@ A really good video explaining about adress and offset that will be a really goo
 2. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - Linuxize (Blogpost) <br>
 Need help with scp? This article will help you go through this weekly assignment. You can find different commands that you aren't aware. I learn how to do weekly assignment from this blogpost
 
+### Week08
+1. [LFS Tutorial](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) - Kernotex (Youtube) <br>
+Playlist about Kernotex tutorial for LFS. This tutorial truly do me so much favor this weeek. If you still confuse about this week assignment, then this link is for you!
+
+2. (Linux From Scratch)[https://id.wikipedia.org/wiki/Linux_From_Scratch] - Wikipedia (Blogpost)
+This is a good introduction to understand the concept of Linux From Scratch in Indonesian. Through this wikipedia, I think this might give you a big picture to understand the essentials of Linux From Scratch.
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
